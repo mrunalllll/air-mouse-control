@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+GestureControl/venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
